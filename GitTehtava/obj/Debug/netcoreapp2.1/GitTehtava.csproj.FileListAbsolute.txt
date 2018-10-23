@@ -1,0 +1,10 @@
+Y:\Makela_Petteri\AUTE16\Teollinen internet\GitTehtava\GitTehtava\bin\Debug\netcoreapp2.1\GitTehtava.deps.json
+Y:\Makela_Petteri\AUTE16\Teollinen internet\GitTehtava\GitTehtava\bin\Debug\netcoreapp2.1\GitTehtava.runtimeconfig.json
+Y:\Makela_Petteri\AUTE16\Teollinen internet\GitTehtava\GitTehtava\bin\Debug\netcoreapp2.1\GitTehtava.runtimeconfig.dev.json
+Y:\Makela_Petteri\AUTE16\Teollinen internet\GitTehtava\GitTehtava\bin\Debug\netcoreapp2.1\GitTehtava.dll
+Y:\Makela_Petteri\AUTE16\Teollinen internet\GitTehtava\GitTehtava\bin\Debug\netcoreapp2.1\GitTehtava.pdb
+Y:\Makela_Petteri\AUTE16\Teollinen internet\GitTehtava\GitTehtava\obj\Debug\netcoreapp2.1\GitTehtava.csproj.CoreCompileInputs.cache
+Y:\Makela_Petteri\AUTE16\Teollinen internet\GitTehtava\GitTehtava\obj\Debug\netcoreapp2.1\GitTehtava.AssemblyInfoInputs.cache
+Y:\Makela_Petteri\AUTE16\Teollinen internet\GitTehtava\GitTehtava\obj\Debug\netcoreapp2.1\GitTehtava.AssemblyInfo.cs
+Y:\Makela_Petteri\AUTE16\Teollinen internet\GitTehtava\GitTehtava\obj\Debug\netcoreapp2.1\GitTehtava.dll
+Y:\Makela_Petteri\AUTE16\Teollinen internet\GitTehtava\GitTehtava\obj\Debug\netcoreapp2.1\GitTehtava.pdb
